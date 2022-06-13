@@ -46,13 +46,7 @@ Como Mantenho o Projeto?
 
 
 
-Imagens:
-
-            <img src="https://i.pinimg.com/originals/64/4a/f7/644af7ee28c489a3ae0fc9cba2876cee.jpg" width="800" height="320"/>
-            <img src="https://i.pinimg.com/originals/2b/17/92/2b17924d2bcdd64e7391d6d356ba644a.jpg" width="800" height="320"/>
-            <img src="https://i.pinimg.com/originals/1e/b2/26/1eb2268e90658aff93d71f7c7e761823.jpg" width="800" height="320"/>
-            <img src="https://i.pinimg.com/originals/00/ff/82/00ff82f6f596007cdd6f0dca3ac83fd0.jpg" width="800" height="320"/>
-            <img src="https://i.pinimg.com/originals/15/c6/dd/15c6dda1891cd5ec2cb53dec9f8e2378.jpg" width="800" height="320"/>
+Pinterest : https://pin.it/36CnJMJ
 
 
 
