@@ -1,35 +1,64 @@
-<h1>Sergio G./Dev Jr/CEO L2Dragon<h1>
-    <h6> nas Redes conhecido como Skay<h6>
+<h1>Sergio Gustavo./CEO L2Dragon<h1>
 
-<h4>Este é meu portfólio com meus conhecimentos e esforços de todos os dias pra obter mais conhecimento.</h4>
-
-<font color="Grey">Aplicado aqui: </font>
-
-<font color="lightblue">HTML</font> (o "Raiz" como muitos conhecem)
-
-<font color="blue">Python 2</font> (Meu Início de estudos desde 2013 e ainda estudo com ele)
-
-<font color="red">Java</font> (versões usadas até aqui: 6.0-8.0-16)
+<h4>Este é meu portfólio com meus conhecimentos.
+    me esforço literalmente todos os dias para obter o máximo de conhecimento que eu consegui.</h4>
 
 
 
-<h4>Informações:</h4>
+Sobre o Projeto : 
 
-- Conhecimento Básico de Banco de dados usando MySql com Navicat como Gerenciador. (Implementações de Arquivos Importados (.sql) e gerenciamento de valores em Tabelas e Colunas com dados Reais com Put's do arquivo core.jar) .
+​	Desenvolvido pela NCSoft, o Lineage é um jogo MMORPG programado em C++ e Unreal engine.
 
-- Desenvolvimento e Design do Projeto todo da NcSoft. Modificações customizadas são usadas em :
+​	Como outros jogos do mesmo estilo, existem desenas de chamados "Servidores Piratas",Porém não é todo mundo consegue fazer como a NCSoft. Alguns programadores Russos, Koreanos e Brasileiros conseguiram desenvolver o mais refinado e versionado projeto de Lineage emulado em Java/Python. 
+​	O L2Dragon não é um desses! rs.. este projeto foi uma forma que eu me encontrei na programação. Obtive meu primeiro contato com programação através do Lineage, até hoje ainda é muito popular, o Lineage emulado em Java não está 100% adptado e a comunidade de desenvolvedores é muito ativa como o L2jbrasil.com por exemplo.
+​	Comecei a entender um pouco através de Softwares Russos e koreanos sobre criptografia, banco de dados e até PYTHON. Em 2013 ingressei pra valer em querer aprender como funcionava e estou até hoje trabalhando na 3 versão do projeto e estudando apenas conteúdo gratuíto na internet.
 
-  Unreal engine 2 (versão do Jogo é 2006. Atualizada para o Projeto na Versão 2022 e Exclusiva)
+​	O L2Dragon é um Servidor BASEADO em Lineage 2, Originalmente na Versão HELLBOUND (Créditos a L2jsecrets) e hoje desenvolvido em uma versão própria. 
 
-<h4>Programas Usados de Terceiros : </h4>
 
-- Unreal Editor (CRAQUEADO MESMO)
 
-- L2ViewerUTX e FileEdits Russos (é oque tenho).
+> *Dev. Informações:*
+>
+> *<font color="blue">HTML 4</font>  (USANDO NESSE PROJETO)*
+>
+> *<font color="blue">Python 2.2b</font> (Original do Projeto)*
+>
+> <font color="red">Java 8</font> (Projeto em JAVA 6 Adaptado para JAVA 8)
+>
+> 
 
-- Este portfólio contém:
+<h4>Oque tem de Diferentão?</h4>
 
-- Script em Python desenvolvendo um Npc com  a Biblioteca QuestState e outros Imports para Funcionalidades.
+- Jogo totalmente Pt-BR; (dublagem amadora e trasição dos chats para versão desenvolvida)
+- Personagens criados, raças criadas tem características únicas no jogo;   (particularidades)
+- Primeiro servidor ter um Modo História totalmente voltado pro PVE;
+- Desenvolvido totalmente por mim, com ajuda de um amigo de fora... (créditos Sarada@l2jbrasil)
+- 500 Scripts Python desenvolvidos por mim mesmo (AS QUESTS SÃO MINHAS).
+- HTML personalizadas e desenvolvidas (estilizadas) por mim também;
 
-- HTM's iniciados para o Objeto em questão que realizará as ações no L2PcInstante (vulgo Player, ou Jogador)
 
+
+Como Mantenho o Projeto?
+
+​	Bem, como todo programador newbie, eu patrocino meu projeto das formas que eu consigo. pode ser no meu computador ou na casa de um amigo (preciso de um servidor de produção) que tem melhores condições. 
+
+​	Então tive a brilhante ideia de tentar ganhar dinheiro como servidor e tive a Brilhante ideia  de vender propaganda dentro do jogo. como também programo mobile, tenho um projeto de instanciar o banco de dados do jogo direto em um aplicativo para que os players de alguma forma se prendam ao jogo mesmo longe de um computador.  
+
+
+
+Imagens:
+
+            <img src="https://i.pinimg.com/originals/64/4a/f7/644af7ee28c489a3ae0fc9cba2876cee.jpg" width="800" height="320"/>
+            <img src="https://i.pinimg.com/originals/2b/17/92/2b17924d2bcdd64e7391d6d356ba644a.jpg" width="800" height="320"/>
+            <img src="https://i.pinimg.com/originals/1e/b2/26/1eb2268e90658aff93d71f7c7e761823.jpg" width="800" height="320"/>
+            <img src="https://i.pinimg.com/originals/00/ff/82/00ff82f6f596007cdd6f0dca3ac83fd0.jpg" width="800" height="320"/>
+            <img src="https://i.pinimg.com/originals/15/c6/dd/15c6dda1891cd5ec2cb53dec9f8e2378.jpg" width="800" height="320"/>
+
+
+
+
+Pretendo desenvolver um joginho em javascript mobile pra vender anuncios atravéis do joginho mobile onde o player assista anuncios e ganhe beneficios direto no banco de dados do jogo, ou seja, direto no L2Dragon.
+
+Estou estudando isso ainda, então fica aqui apenas meu projeto de sangue, suor e dedicação. 
+
+Agradeço a NCsoft por ter disponibilizado um jogo tão maravilhoso onde eu possa aprender a programar e me divertir ao mesmo tempo.
