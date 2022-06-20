@@ -1,6 +1,5 @@
 <h1>Commits:<h1>
-
-<h4>Versão beta 2 - 1.0</h4>
+<h4>Versão beta 2 - 1.1</h4> ~~versão beta 2 - 1.0~~
 
 <h5>Sobre:</h5> Quests-Python
 
@@ -11,6 +10,7 @@
 <ul>
     <li>Script Find-NPC//onetime</li>
 </ul>
+
 
 
 
