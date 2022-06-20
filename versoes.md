@@ -1,6 +1,6 @@
-<h1>Commits:<h1>
+## **Banca de estudos** - Métodos
 
-    Versão beta 2 - 1.1   - ~~versão beta 2 - 1.0~~
+Arquivos com métodos de diferentes linguagem padronizados por mim.
 
 <h4>News</h4>
 
@@ -8,7 +8,4 @@
     <li>Script Find-NPC//onetime</li>
     <li>padrão de seletor de missões.java</li>
 </ul>
-
-
-
 
