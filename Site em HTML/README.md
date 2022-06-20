@@ -8,4 +8,4 @@ Site desenvolvido em HTML/CSS e função de slide com javascript.
 
 
 
-Imagem: ![site](C:\Users\Sky-t\Desktop\Dio\Dev\L2Dragon-Dev\Site em HTML\site.jpg)
+Imagem: ![site.jpg](https://www.imagemhost.com.br/images/2022/06/20/site.jpg)
