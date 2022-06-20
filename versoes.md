@@ -1,5 +1,6 @@
 <h1>Commits:<h1>
-Versão beta 2 - 1.1 ~~versão beta 2 - 1.0~~
+
+    Versão beta 2 - 1.1   - ~~versão beta 2 - 1.0~~
 
 <h4>News</h4>
 
