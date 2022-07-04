@@ -8,5 +8,6 @@ Arquivos com métodos de diferentes linguagem padronizados por mim.
     <li>Script Find-NPC//onetime</li>
     <li>padrão de seletor de missões.java</li>
 	<li>Adicionado Classe java "CustomTeleport"</li>
+	<li>Adicionado Quest DragonFangs com método de array randomReward</li>
 </ul>
 
