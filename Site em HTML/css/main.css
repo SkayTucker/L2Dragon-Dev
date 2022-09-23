@@ -32,68 +32,72 @@ body {
 
 .background {
 	background-image: url("../images/background.png");
-	background-position-x: 100%;
+	background-position-x: 55%;
 	background-position-y: 0.1rem;
 	background-repeat: no-repeat;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
 	justify-content: center;
 }
 
 .container {
-	width: 800px;
-	margin: 0 auto;
 	padding-top: 0px;
+	position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
 }
 
 .header {
-	margin: 10px auto;
-	padding: 10px 10px 10px 10px;
 	display: flex;
-	max-height: 80px;
-	max-width: 610px;
+	justify-content: center;
 	background-image: url("../images/nav-background.png");
+	max-height: 60px;
 }
-
+.header img{
+	transition: width 1s;
+	border-radius: 90%;
+	padding: 3px;
+	margin: 50px;
+	background-color: #535353a6;
+}
+.header img:hover {
+	width: 55px;
+	box-shadow: 0 0 1em rgba(2, 2, 1, 0.336);
+  }
 .header .nav {
 	display: flex;
 	align-items: center;
+	margin: 10px;
 }
 
-.header .nav__item {
+.header a {
 	display: flex;
-	margin: 20px;
-	margin-bottom: 20px;
-	font-size: 32px;
-	text-transform: uppercase;
-	color: #fff;
-	text-decoration: none;
+	margin: 50px;
+	padding: 5px;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: white;
+	text-decoration: white;	
+	transition: width 2s;
 }
+ 
+.header a:hover {
+	color: orange;
 
-.nav__item--active {
-	color: #f7cf41;
-	padding-bottom: 30px;
-	border-bottom: 6px solid #ffffff;
-}
+  }
 
 .main {
 	display: flex;
-	padding: 138px 134px 150px 134px;
-	justify-content: end;
-}
+	justify-content: center;
+	padding-top: 190px;
 
-.main__background {
-	background-image: url("../images/logo.png");
-	margin-left: -150px;
-	width: 550px;
-	height: 180px;
 }
-
 .start {
-	margin: 10px auto;
-	padding: 10px 10px 10px 10px;
 	display: flex;
-
+	justify-content: center;
+	align-items: center;
+	padding: 10px 10px 0px 10px;
+	margin: 150px auto;
 	max-width: 900px;
 }
 
@@ -119,7 +123,7 @@ body {
 	font-weight: 500;
 	font-size: 18px;
 	text-transform: uppercase;
-	margin-top: 3px;
+	margin-top: 1px;
 	margin-left: 8px;
 	letter-spacing: 0.24em;
 }
@@ -127,8 +131,10 @@ body {
 .info {
 	display: flex;
 	flex: 1;
-	margin-left: 3px;
+	margin-left: 2px;
+	max-height: 180px;
 	background-image: url("../images/info-background.png");
+	box-shadow: 3px 4px black, -1em 0 0.8em black;
 }
 
 .info__box {
