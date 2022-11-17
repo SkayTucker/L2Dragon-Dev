@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100&display=swap');
+
+.container {
+  width: 250px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.center {
+    width: 168px;
+    height: 50px;
+    position: absolute;
+}
+
+.btn {
+  width: 180px;
+  height: 60px;
+  cursor: pointer;
+  background: rgba(255, 217, 0, 0.418);
+  border: 1px solid rgba(255, 188, 3, 0.897);
+  outline: none;
+  transition: 1s ease-in-out;
+  text-shadow: 2px 1px #080707;
+}
+
+svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  fill: none;
+  stroke: rgb(255, 255, 255);
+  stroke-dasharray: 150 480;
+  stroke-dashoffset: 150;
+  transition: 1s ease-in-out;
+}
+
+.btn:hover {
+  transition: 1s ease-in-out;
+  background: #ffd900;
+
+}
+
+.btn:hover svg {
+  stroke-dashoffset: -480;
+}
+
+.btn span {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: 100;
+}

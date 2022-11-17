@@ -1,103 +1,33 @@
-@font-face {
-	src: url("../fonts/beaufortforlol-medium.otf");
-	font-family: "Beaufort";
-	font-weight: 500;
-}
-
-@font-face {
-	src: url("../fonts/beaufortforlol-bold.otf");
-	font-family: "Beaufort";
-	font-weight: 100;
-}
-
-@font-face {
-	src: url("../fonts/Roboto-Regular.ttf");
-	font-family: "Roboto";
-	font-weight: 300;
-}
-
-@font-face {
-	src: url("../fonts/Roboto-Medium.ttf");
-	font-family: "Roboto";
-	font-weight: 500;
-}
-
-
 body {
-	margin: auto auto;
-	font-family: "Beaufort";
-	font-weight: 100;
-	background-color: #000;
+	font-family: Arial, Helvetica, sans-serif;
 }
-
-.background {
-	background-image: url("../images/background.png");
-	background-position-x: 55%;
-	background-position-y: 0.1rem;
-	background-repeat: no-repeat;
-	padding-left: 5px;
-	padding-right: 5px;
-	justify-content: center;
+.bg {
+	background-image: url("/images/background.png");
+	background-size: cover;
+	opacity: 90%;
 }
-
-.container {
-	padding-top: 0px;
-	position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-}
-
-.header {
-	display: flex;
-	justify-content: center;
-	background-image: url("../images/nav-background.png");
-	max-height: 60px;
-}
-.header img{
-	transition: width 1s;
-	border-radius: 90%;
-	padding: 3px;
-	margin: 50px;
-	background-color: #535353a6;
-}
-.header img:hover {
-	width: 55px;
-	box-shadow: 0 0 1em rgba(2, 2, 1, 0.336);
-  }
-.header .nav {
+.cinematic {
 	display: flex;
 	align-items: center;
-	margin: 10px;
+	flex-direction: column;
+	position: relative;
+	padding: 10px;
 }
-
-.header a {
-	display: flex;
-	margin: 50px;
-	padding: 5px;
-	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-	color: white;
-	text-decoration: white;	
-	transition: width 2s;
+.cinematic video{
+	border: 1px solid gold;
+	border-radius: 6%;
 }
- 
-.header a:hover {
-	color: orange;
-
-  }
-
 .main {
-	display: flex;
-	justify-content: center;
-	padding-top: 190px;
-
+	bottom: 0;
+	position: absolute;
 }
+
 .start {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	padding: 10px 10px 0px 10px;
-	margin: 150px auto;
+	margin: 100px auto;
 	max-width: 900px;
 }
 

@@ -2,33 +2,66 @@
 <html lang="pt">
 <head>
 	<meta charset="UTF-8">
-	<title>L2Dragon</title>
+	<title>L2Dragon Interlude</title>
 	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/fontello.css">
+	<link rel="stylesheet" href="css/navbar.css">
+	<link rel="stylesheet" href="css/download.css">
 	<link rel="icon" href="images/favicon.png">
 </head>
-
 <body>
-<div class="background">
+<div class="bg">
+	<header>
+		<input type="checkbox" id="ham-menu">
+			<label for="ham-menu">
+				<div class="hide-des">
+					<span class="menu-line"></span>
+					<span class="menu-line"></span>
+					<span class="menu-line"></span>
+					<span class="menu-line"></span>
+					<span class="menu-line"></span>
+					<span class="menu-line"></span>
+				  </div>
+			</label>
 
-	<div class="container">
-		<div class="header">		
-				<div class="nav">
-					<a href="#" class="nav__item nav__item--active">Início</a>
-					<a href="#" class="nav__item">Contato</a>
-					<img src="./images/dragon.png" alt="logo.png" width="48">
-					<a href="#" class="nav__item">Doações</a>
-					<a href="#" class="nav__item">App</a>
-					
-				</div> 
-		</div>	
+	<div class="full-page-green"></div>
 
+		<div class="ham-menu">
+		  <ul class="centre-text bold-text">
+			<li>Sobre</li>
+			<li>Informações</li>
+			<li>Patch notes</li>
+			<li>Download</li>
+			<li>Suporte</li>
+		  </ul>
+		</div>
+	</header>
+	<section class="cinematic">	
+		<!-- CINEMATIC -->
+			<video width="732" height="420" autoplay muted loop>
+				<source src="/media/intro.webm" type="video/webm">
+				<source src="/media/intro.mp4" type="video/mp4">
+			</video>
+			<div class="main">
+				<img src="./images/logo.png" alt="logo.png" width="490" height="140">
+			</div>
+	</section>
+	<!-- BOTÃO DOWNLOAD -->
+	<div class="baixar">
+		<div class="container">
+			<div class="center">
+			  <button class="btn">
+				<svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
+				  <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
+				  <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
+				</svg>
+				<span>Jogar Agora!</span>
+			  </button>
+			</div>
+		  </div>
 	</div>
 
-		<div class="main">
-			<div><img src="./images/logo.png" alt="logo.png" width="470" height="125"></div>
-		</div>
 
+	<section id="info-server">
 		<div class="start">
 			
 			<div class="info">
@@ -43,28 +76,20 @@
 					<div class="status__rate">x75</div>
 					<div class="status__chronicle">Hellbound</div>
 				</a>
+
 				<a href="#" class="info__box">
 					<div class="info__icon" style="background-image: url('images/info-icon.png');"></div>
 					<div class="info__text">
 						<div class="info__caption">Informações</div>
 						<div class="info__desc">Quests, Drops e mais!</div>
 					</div>
-				</a>
-				<a href="#" class="info__box">
-					<div class="info__icon" style="background-image: url('images/bonus-icon.png');"></div>
-					<div class="info__text">
-						<div class="info__caption">Login:</div>
-						<div class="info__caption">Server:</div>
-						<div class="info__desc">Versão: XX.XX</div>
-					</div>
-				</a>
-				
+				</a>				
 			</div>
+
 		</div>
 
-<br>
-
 <div class="container-slide">
+
 		<div class="slider js-slider js-slider-background">
 
 			<div class="slider__items js-slider-items">
@@ -88,7 +113,12 @@
 			<div class="slider__nav js-slider-nav"></div>
 		</div>
 	</div>
-<br>		
+
+	</section>
+
+</div>
+
+<article>
 		<div class="news">
 			<div class="news__posts">
 				<div class="news__post" style="background-image: url('images/news-background-01.png')">
@@ -156,7 +186,10 @@
 				</div>
 			</div>
 		</div>
-	</div>
+</article>
+
+
+
 
 	<div class="footer">
 		<div class="footer__info">
@@ -166,11 +199,6 @@
 			</div>
 		</div>
 	</div>
-</div>
-
-
-
-
 <script src="js/Slider.js"></script>
 <script src="js/tween.js"></script>
 <script src="js/progressBar.js"></script>
