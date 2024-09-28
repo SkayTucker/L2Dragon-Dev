@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-#Psds
-
-
-**Class Info é Alfa 1 (Transparente)**
-=======
 ## Dragon L2j - Lineage 2 Framework
 Repositório Clone ---  [![](https://scontent.ffor39-1.fna.fbcdn.net/v/t39.30808-6/461661730_8233047166813954_8682889789224009600_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6jAydaNPSsUQ7kNvgFJqATe&_nc_ht=scontent.ffor39-1.fna&_nc_gid=AFzJJhIovCfwL9vQpvUtrJR&oh=00_AYDLY1pCfrrDGRHMwn6s0mEE2h1JGLgLk0lYR0-xreC5jA&oe=66FE3B42)](https://l2jserver.com/pt/)
  - **Versão da Build**
