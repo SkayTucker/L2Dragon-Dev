@@ -74,4 +74,3 @@ A NCsoft, como dona dos direitos de Lineage 2, tem o direito exclusivo de distri
 Além das implicações criminais, os servidores piratas também podem expor seus operadores e jogadores a riscos legais e de segurança, como roubo de dados e fraudes financeiras.
 
 ```
->>>>>>> 662d645ae45d92495a5fd528403411ac4df33b59
